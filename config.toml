@@ -1,0 +1,4 @@
+telegrambot_token = ""
+test_telegram_bot_token = ""
+uri_db = ""
+database_name = "JsonBot"

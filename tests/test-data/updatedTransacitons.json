@@ -1,0 +1,182 @@
+[
+  {
+    "addonKey": "com.ngs.stash.externalhooks.external-hooks",
+    "addonLicenseId": "13778115new",
+    "addonName": "External Hooks by Reconquest",
+    "customerDetails": {
+      "company": "Nike",
+      "country": "United States of America",
+      "region": "Americas",
+      "technicalContact": {
+        "email": "tristianhettinger@yundt.com",
+        "name": "Prof. Pattie Lehner"
+      }
+    },
+    "lastUpdated": "2020-03-31",
+    "licenseId": "SEN-L7711708",
+    "partnerDetails": {
+      "billingContact": {
+        "email": "terrancedouglas@marvin.info",
+        "name": "Mrs. Eldora Beer"
+      },
+      "partnerName": "Spencer, Metz and Kozey",
+      "partnerType": "Expert"
+    },
+    "purchaseDetails": {
+      "billingPeriod": "Annual",
+      "hosting": "Server",
+      "licenseType": "COMMERCIAL",
+      "maintenanceEndDate": "2021-04-12",
+      "maintenanceStartDate": "2020-04-12",
+      "partnerDiscountAmount": 54.95000076293945,
+      "purchasePrice": 494.5,
+      "saleDate": "2020-03-30",
+      "saleType": "Renewal",
+      "tier": "500 Users",
+      "vendorAmount": 370.8699951171875
+    },
+    "transactionId": "AT-L6807882"
+  },
+  {
+    "addonKey": "com.ngs.stash.externalhooks.external-hooks",
+    "addonLicenseId": "16243349",
+    "addonName": "External Hooks by Reconquest",
+    "customerDetails": {
+      "company": "Adidas",
+      "country": "United States of America",
+      "region": "Americas",
+      "technicalContact": {
+        "email": "makennadubuque@hettinger.biz",
+        "name": "Lady Gladyce Kub"
+      }
+    },
+    "lastUpdated": "2020-03-31",
+    "licenseId": "SEN-L6475303",
+    "partnerDetails": {
+      "billingContact": {
+        "email": "rogersboyle@lakin.org",
+        "name": "Ms. Samara Hammes"
+      },
+      "partnerName": "Eichmann, Lakin and Beatty",
+      "partnerType": "Expert"
+    },
+    "purchaseDetails": {
+      "billingPeriod": "Annual",
+      "hosting": "Data Center",
+      "licenseType": "COMMERCIAL",
+      "maintenanceEndDate": "2021-03-25",
+      "maintenanceStartDate": "2020-03-25",
+      "partnerDiscountAmount": 400,
+      "purchasePrice": 1600,
+      "saleDate": "2020-03-25",
+      "saleType": "New",
+      "tier": "1000 Users",
+      "vendorAmount": 1200
+    },
+    "transactionId": "AT-L3335503"
+  },
+  {
+      "addonKey": "com.ngs.stash.externalhooks.external-hooks",
+      "addonLicenseId": "11751000",
+      "addonName": "External Hooks by Reconquest",
+      "customerDetails": {
+        "billingContact": {
+          "email": "crediteurenadministratie@deanone.nl",
+          "name": "crediteuren administratie"
+        },
+        "company": "Jerde-Cummerata new company",
+        "country": "Netherlands",
+        "region": "EMEA",
+        "technicalContact": {
+          "email": "abigailkuhlman@schultz.biz",
+          "name": "Miss Lolita Hegmann"
+        }
+      },
+      "lastUpdated": "2020-03-25",
+      "licenseId": "SEN-L9006001",
+      "purchaseDetails": {
+        "billingPeriod": "Annual",
+        "hosting": "Server",
+        "licenseType": "COMMERCIAL",
+        "maintenanceEndDate": "2019-04-23",
+        "maintenanceStartDate": "2018-04-23",
+        "purchasePrice": 79,
+        "saleDate": "2018-04-23",
+        "saleType": "New",
+        "tier": "25 Users",
+        "vendorAmount": 59.25
+      },
+      "transactionId": "AT-L9300935"
+    },
+    {
+      "addonKey": "com.ngs.stash.externalhooks.external-hooks",
+      "addonLicenseId": "11748581",
+      "addonName": "External Hooks by Reconquest",
+      "customerDetails": {
+        "company": "Sporer-Von",
+        "country": "Bulgaria",
+        "region": "EMEA",
+        "technicalContact": {
+          "email": "albinruecker@labadie.org",
+          "name": "Ms. Kayli Dickinson"
+        }
+      },
+      "lastUpdated": "2020-03-07",
+      "licenseId": "SEN-L2814775",
+      "partnerDetails": {
+        "billingContact": {
+          "email": "eliseorowe@watsica.biz",
+          "name": "Princess Jennifer Greenfelder"
+        },
+        "partnerName": "Schoen and Sons",
+        "partnerType": "Expert"
+      },
+      "purchaseDetails": {
+        "billingPeriod": "Annual",
+        "hosting": "Server",
+        "licenseType": "COMMERCIAL",
+        "maintenanceEndDate": "2019-04-22",
+        "maintenanceStartDate": "2018-04-22",
+        "partnerDiscountAmount": 399.75,
+        "purchasePrice": 1599,
+        "saleDate": "2018-04-22",
+        "saleType": "New",
+        "tier": "1000 Users",
+        "vendorAmount": 1199.25
+      },
+      "transactionId": "AT-L2512932"
+    },
+    {
+      "addonKey": "com.ngs.stash.externalhooks.external-hooks",
+      "addonLicenseId": "11741973",
+      "addonName": "External Hooks by Reconquest",
+      "customerDetails": {
+        "billingContact": {
+          "email": "rajeevyadav@gmail.com",
+          "name": "Rajeev Yadav"
+        },
+        "company": "Denesik, Schoen and Swaniawski",
+        "country": "Canada",
+        "region": "Americas",
+        "technicalContact": {
+          "email": "bernardmurray@mckenzie.biz",
+          "name": "Lady Savanna Murray"
+        }
+      },
+      "lastUpdated": "2020-02-26",
+      "licenseId": "SEN-L8598218",
+      "purchaseDetails": {
+        "billingPeriod": "Annual",
+        "hosting": "Server",
+        "licenseType": "COMMERCIAL",
+        "maintenanceEndDate": "2019-04-20",
+        "maintenanceStartDate": "2018-04-20",
+        "purchasePrice": 10,
+        "saleDate": "2018-04-20",
+        "saleType": "New",
+        "tier": "10 Users",
+        "vendorAmount": 7.5
+      },
+      "transactionId": "AT-L2541413"
+    }
+  ]
