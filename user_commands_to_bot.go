@@ -1,12 +1,14 @@
 package main
 
 import (
-	"daniil/notify-telegram-bot/internal/printer"
-	"daniil/notify-telegram-bot/internal/transport"
 	"fmt"
 	"strconv"
 	"strings"
 	"time"
+
+	"github.com/reconquest/notify-telegram-bot/internal/printer"
+
+	"github.com/reconquest/notify-telegram-bot/internal/transport"
 
 	karma "github.com/reconquest/karma-go"
 	"github.com/reconquest/pkg/log"

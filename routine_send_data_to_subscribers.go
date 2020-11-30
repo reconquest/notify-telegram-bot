@@ -1,11 +1,12 @@
 package main
 
 import (
-	"daniil/notify-telegram-bot/internal/printer"
 	"fmt"
 	"reflect"
 	"strings"
 	"time"
+
+	"github.com/reconquest/notify-telegram-bot/internal/printer"
 
 	"github.com/globalsign/mgo/bson"
 	karma "github.com/reconquest/karma-go"

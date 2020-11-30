@@ -1,4 +1,4 @@
-module daniil/notify-telegram-bot
+module github.com/reconquest/notify-telegram-bot
 
 go 1.12
 

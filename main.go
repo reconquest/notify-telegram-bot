@@ -2,8 +2,9 @@ package main
 
 import (
 	"context"
-	"daniil/notify-telegram-bot/internal/transport"
 	"time"
+
+	"github.com/reconquest/notify-telegram-bot/internal/transport"
 
 	"github.com/docopt/docopt-go"
 	karma "github.com/reconquest/karma-go"
